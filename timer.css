@@ -1,0 +1,28 @@
+.time 
+{
+    text-align: center;
+
+}
+h3
+{
+    font-size: 50px;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    margin-top: -54px;
+    color: gray;
+}
+.hour
+{
+    margin-left: 15px;
+
+}
+.seconde
+{    margin-left: 22px;
+}
+.minute
+{
+    margin-left: 16px;
+}
